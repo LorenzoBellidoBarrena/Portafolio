@@ -39,7 +39,7 @@ const day = today.getDate();
 
 document.getElementById(
   "footer-text"
-).innerHTML = `&copy; Building ideas in code! — ${day} ${month} ${year}`;
+).innerHTML = `&copy; LBB! — ${day} ${month} ${year}`;
 
 // ==================== NAVEGACIÓN Y SCROLL ====================
 class Navigation {
